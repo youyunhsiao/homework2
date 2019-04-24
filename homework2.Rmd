@@ -90,6 +90,10 @@ names(studentRecord)[[4]]<-"平均成績"
 studentRecord
 ```
 
+```{r}
+
+```
+
 ### 1.2
 請將"一年級"，"二年級"，"三年級"，"四年級"改成"一"，"二"，"三"，"四"。（hint: 改掉studentRecord[[4]]的元素名稱。）（此題最後一行請輸入studentRecord，老師改題時會看studentRecord的names有沒有正確更改。）
 ```{r ans12}
